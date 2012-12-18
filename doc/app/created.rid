@@ -1,0 +1,7 @@
+Tue, 18 Dec 2012 09:51:45 -0800
+app/controllers/application_controller.rb	Tue, 18 Dec 2012 09:09:29 -0800
+app/models/user.rb	Tue, 18 Dec 2012 09:46:17 -0800
+app/controllers/users_controller.rb	Tue, 18 Dec 2012 09:46:17 -0800
+app/helpers/users_helper.rb	Tue, 18 Dec 2012 09:46:18 -0800
+doc/README_FOR_APP	Tue, 18 Dec 2012 09:09:29 -0800
+app/helpers/application_helper.rb	Tue, 18 Dec 2012 09:09:29 -0800
